@@ -36,7 +36,7 @@ This project implements a Quality Log Control system which ingests logs from mul
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/log-control-system.git
+    git clone https://github.com/Ayushgadre/log-control-system.git
     cd log-control-system
     ```
 
