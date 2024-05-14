@@ -10,20 +10,6 @@
 
 This project implements a Quality Log Control system which ingests logs from multiple APIs and provides a query interface to search these logs based on various criteria.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Log Ingestion](#log-ingestion)
-  - [Log Query Interface](#log-query-interface)
-- [Sample Logs and Queries](#sample-logs-and-queries)
-- [Advanced Features](#advanced-features)
-- [License](#license)
-
----
-
 ## Technologies Used
 
 - **Node.js**: JavaScript runtime environment.
@@ -44,9 +30,6 @@ This project implements a Quality Log Control system which ingests logs from mul
     ```sh
     npm install
     ```
-
----
-
 ## Usage
 
 ### Log Ingestion
