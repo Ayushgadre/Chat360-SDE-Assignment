@@ -5,6 +5,11 @@
 **Quality Log Control**
 
 ---
+# Screenshot
+
+![Screenshot (18)](https://github.com/Ayushgadre/Chat360-SDE-Assignment/assets/84783296/224e946d-d8cb-493a-bfa7-aa575c36cca2)
+
+
 
 ## Overview
 
