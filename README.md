@@ -10,6 +10,16 @@
 ![Screenshot (18)](https://github.com/Ayushgadre/Chat360-SDE-Assignment/assets/84783296/224e946d-d8cb-493a-bfa7-aa575c36cca2)
 
 
+# How to Run
+
+Give the following command:
+
+Install necessary plugins by the command: npm install
+
+For starting the backend server: npm start
+
+For The searching page (UI): a. open the browser b. go to http://localhost:3000/
+
 
 ## Overview
 
